@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rma-app", "rma-app.csproj", "{071CCB04-4753-464E-A917-3D24A14F5410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rma-app.Tests", "..\rma-app.Tests\rma-app.Tests.csproj", "{43A675C0-4DD0-4FC3-8F0C-9D445E10641A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071CCB04-4753-464E-A917-3D24A14F5410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071CCB04-4753-464E-A917-3D24A14F5410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071CCB04-4753-464E-A917-3D24A14F5410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071CCB04-4753-464E-A917-3D24A14F5410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A675C0-4DD0-4FC3-8F0C-9D445E10641A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A675C0-4DD0-4FC3-8F0C-9D445E10641A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A675C0-4DD0-4FC3-8F0C-9D445E10641A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A675C0-4DD0-4FC3-8F0C-9D445E10641A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB799F0D-858A-417B-912F-472EDE263367}
+	EndGlobalSection
+EndGlobal
